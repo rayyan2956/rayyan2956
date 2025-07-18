@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Full stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rayyan2956)
 
